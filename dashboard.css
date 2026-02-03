@@ -1,7 +1,7 @@
 body {
+    background: red;
     margin: 0;
     font-family: Arial;
-    background: red;
 }
 
 .sidebar {
@@ -24,3 +24,4 @@ body {
     margin: 10px 0;
 
 }
+
